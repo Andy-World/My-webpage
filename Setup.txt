@@ -1,0 +1,5 @@
+Setup:
+	download:
+		-OpenSteggo (needs JAVA)
+https://www.openstego.com/
+		-Java for Windows
